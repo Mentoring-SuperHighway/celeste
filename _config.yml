@@ -1,5 +1,5 @@
 title:               Celeste
-url:                 https://nicoelayda.github.io
+url:                 https://mentoring-superhighway.github.io
 baseurl:             ""
 
 markdown:            kramdown
@@ -18,10 +18,6 @@ sass:
   sass_dir:          _sass
   style:             :compressed
 
-author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
 
 plugins:
   - jekyll-coffeescript
