@@ -2,21 +2,8 @@
 layout: page
 title: About
 ---
+Mentoring SuperHighway is a free guide to all things high school and transitioning to college. This guide will cover the transition from middle school to high school, from course selections, extracurriculars, advice from current and past students, tips from college admission counselors, and more. This guide is geared specifically for 7th grade and above to teach them about how important it is to think about post graduate plans from a young age. This guide (in parts or as a whole) may be only be applicable for students in the United States of America.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This guide is written in a blog format. That is, each individual post talks about a specific part of the high school process. Use the site search function to find information on a specific parts of the process. Once per month there will be a zoom call which will have a special guest whether that be a current high school student, past high school student, high school counselor, or college admissions officer. These zoom calls will be accessible through our mailing list which can be signed up for in the <a href="{{ '/join/' | relative_url }}">"Join Us"</a> tab of our website. 
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
-
-In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
-
-* [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
-* [Hover.css](http://ianlunn.github.io/Hover/), a collection of CSS3 powered hover effects.
-
-Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
-
-Thanks for reading!
+Finally, this guide is only that, a guide. It does not require a strict adherence, following suggestions down to the letter. Rather, it is best to use this guide to gain a more complete understanding of how high school works and how to have a better chance of succeeding in school.
